@@ -40,3 +40,4 @@ Console.WriteLine();
 
 Console.Write("Ваш масив со значениями меньше 3х семволов: ");
 ShowArray(arrayString);
+
