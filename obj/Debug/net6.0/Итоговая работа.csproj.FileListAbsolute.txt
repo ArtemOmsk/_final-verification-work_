@@ -1,0 +1,15 @@
+C:\Users\79835\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.exe
+C:\Users\79835\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.deps.json
+C:\Users\79835\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.runtimeconfig.json
+C:\Users\79835\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.dll
+C:\Users\79835\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.pdb
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.csproj.AssemblyReference.cache
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.AssemblyInfoInputs.cache
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.AssemblyInfo.cs
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.csproj.CoreCompileInputs.cache
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.dll
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\refint\Итоговая работа.dll
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.pdb
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.genruntimeconfig.cache
+C:\Users\79835\Desktop\Итоговая работа\obj\Debug\net6.0\ref\Итоговая работа.dll
